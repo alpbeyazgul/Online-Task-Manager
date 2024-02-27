@@ -19,4 +19,4 @@ A web-based task management system with user authentication and collaborative fe
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/web-task-manager.git
+   git clone https://github.com/alpbeyazgul/web-task-manager.git
