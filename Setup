@@ -3,3 +3,7 @@ pip install Flask Flask-SQLAlchemy Flask-Login
 # Run Information
 
 python app.py
+
+# Visit http://localhost:5000 in your web browser to interact with the web-based task manager.
+
+# Remember to customize the code further based on your needs and to handle user authentication securely in a production environment.
